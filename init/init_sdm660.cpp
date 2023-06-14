@@ -133,7 +133,7 @@ void vendor_load_properties()
     std::string fingerprint;
     std::string description;
 
-    fingerprint = "google/redfin/redfin:13/TQ1A.230105.001/9292298:user/release-keys";
+    fingerprint = "google/redfin/redfin:13/TQ2A.230505.002/9891397:user/release-keys";
     description = "sdm660_64-user 10 QKQ1 72 release-keys";
 
     set_ro_build_prop("fingerprint", fingerprint);
